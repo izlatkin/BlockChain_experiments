@@ -59,3 +59,5 @@ example of execution
 
   7 passing (6s)
 ```
+
+run single test: `truffle test ./test/simple_contract.js`
