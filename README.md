@@ -7,6 +7,7 @@ Test Driven Solidity with Truffle
 1. `brew install npm`
 2. `npm install truffle -g`
 3. `npm install ganache-cli -g`
+4. `npm install -g truffle-expect truffle-config web3`
 
 
 ### Configuration
